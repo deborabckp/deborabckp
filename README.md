@@ -10,3 +10,5 @@
 ### Estudando no momento: 
 
 <code><img height="25" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+
+![snake gif](https://github.com/deborabckp/deborabckp/blob/output/github-contribution-grid-snake.svg)
