@@ -17,14 +17,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=deborabckp&theme=radical&hide_border=true&background=0d1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" />
-</div>
-
----
-
 ## 🚀 Technologies & Tools
 
 <div align="center">
