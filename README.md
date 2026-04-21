@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About me
 
-- 🎓 Software Engineering student (5º período)
+- 🎓 Information Technology student
 - 🧠 Researcher in **Machine Learning for Diabetes Prediction**
 - ☁️ Experience with **AWS, Docker, Linux**
 - 💻 I love working with **Python, Data Science and Web Development**
