@@ -3,28 +3,8 @@
 <h1 align="center">Hi 👋, I'm Débora Costa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=30&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+💖">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=30&center=true&vCenter=true&width=1000&lines=Information+Technology+Student;21+years+old;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+💖">
 </p>
-
----
-
-## 👩‍💻 About me
-
-- 🎓 Information Technology student
-- 🧠 Researcher in **Machine Learning for Diabetes Prediction**
-- ☁️ Experience with **AWS, Docker, Linux**
-- 💻 I love working with **Python, Data Science and Web Development**
-- 🌙 Dealing with insomnia but still coding 😅
-
----
-
-## 🚀 Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,aws,docker,linux,mysql,postgresql,git" />
-
-</div>
 
 ---
 
@@ -45,10 +25,12 @@
 
 ---
 
-## 📈 Activity Graph
+## 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deborabckp&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,aws,linux,postgresql,git"/>
+
 </div>
 
 ## 📫 Contact me
@@ -62,12 +44,5 @@
 </a>
 </div>
 
----
-
-## 💖 Quote
-
-> “Consistency is more important than perfection.”
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
